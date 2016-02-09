@@ -10,12 +10,12 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 
-	<name>Simple URL Shortner Maven Webapp</name>
+	<name>Simple URL Shortner Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<spring.version>4.2.3.RELEASE</spring.version>
+		<spring.version>4.2.4.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
 		<logback.version>1.0.13</logback.version>
